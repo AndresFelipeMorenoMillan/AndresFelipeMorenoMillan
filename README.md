@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Yo soy Andrés Moreno</h1>
 
-<!--
-**AndresFelipeMorenoMillan/AndresFelipeMorenoMillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mi :
 
-Here are some ideas to get you started:
+- 🏢 Actualmente trabajo en **RapidHardware**
+- 🏢 Progrador certificado por Alura y Oracle en Java con uso del framework SpringBoot
+- 🎓 Técnico en sistemas certificado por el SENA
+- 🎓 Ingniero de sistemas certificado por la UNAB
+- 🏡 Vivo en **Colombia**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## Tecnologías para desarrollo web 🧑‍💻 :
+
+<br>
+
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/spring-logo.png"/><img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
+
+<br>
