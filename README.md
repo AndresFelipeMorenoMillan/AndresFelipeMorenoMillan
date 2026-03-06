@@ -2,8 +2,8 @@
 
 ## Acerca de mi :
 
-- 🏢 Actualmente trabajo en proyectos personales de programación.
-- 🏢 Progrador certificado por Alura y Oracle en Java con uso del framework SpringBoot.
+- 💻 Actualmente trabajo en proyectos personales de programación.
+- 👨‍💻 Progrador certificado por Alura y Oracle en Java con uso del framework SpringBoot.
 - 🎓 Técnico en sistemas certificado por el SENA.
 - 🎓 Ingniero de sistemas certificado por la UNAB.
 - 🏡 Vivo en **Colombia**
